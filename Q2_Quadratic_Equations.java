@@ -2,7 +2,7 @@
         Write a Java program to solve quadratic equations (use if, else if and else).
 
         Example 1: Find the roots of the equation  x^2 – 5x + 6 = 0 using the quadratic formula.
-        Example 2: Find the roots of 4x^2 + 3x + 5 = 0 using quadratic formula.
+        Example 2: Find the roots of 4x^2 + 3x + 5 = 0 using quadratic formula.(a = 4, b = 3, c = 5)
 
         Note
         -----------
