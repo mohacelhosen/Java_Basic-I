@@ -1,3 +1,14 @@
+/* 
+Write a Java program to find the number of days in a month. 
+
+Test Data
+--------------
+Input a month number: 2
+Input a year: 2016
+Expected Output :
+February 2016 has 29 days
+
+*/
 import java.util.*;
 public class Q6_days_in_a_month{
     public static void main(String[] args) {
