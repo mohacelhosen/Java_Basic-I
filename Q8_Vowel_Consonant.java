@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q8_Vowel_Consonet {
+public class Q8_Vowel_Consonant {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String word = in.next();
