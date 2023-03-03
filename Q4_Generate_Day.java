@@ -2,7 +2,7 @@
 Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. 
 */
 import java.util.Scanner;
-public class Main {
+public class Q4_Generate_Day {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		System.out.print("Enter number (1-7): ");
