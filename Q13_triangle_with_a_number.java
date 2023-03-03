@@ -19,7 +19,7 @@ Expected Output :
 12345678910
  */
 
-public class Q13_pattern {
+public class Q13_triangle_with_a_number {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
